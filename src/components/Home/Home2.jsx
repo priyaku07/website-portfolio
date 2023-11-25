@@ -36,7 +36,7 @@ function Home2() {
 							</i>
 							<br />
 							<br />I have a strong interest in using{' '}
-							<b className="purple">Node.js</b>
+							<b className="purple">Node.js and MongoDB</b>
 							<i>
 								<b className="purple"> </b>
 							</i>
