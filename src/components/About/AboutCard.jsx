@@ -9,7 +9,7 @@ function AboutCard() {
 					<p style={{ textAlign: 'justify' }}>
 						Hi Everyone, I am <span className="purple">Priya Kumari </span>
 						from <span className="purple"> Jamshedpur - Jharkhand, India.</span>
-						<br /> I worked as a Software Developer at{' '}
+						<br /> I worked as a MERN Stack Developer at{' '}
 						<span className="purple">
 							{' '}
 							Sella India Software Services, Chennai.{' '}

@@ -25,7 +25,7 @@ function Home2() {
 							<br />I possess proficiency in foundational technologies,
 							including
 							<i>
-								<b className="purple"> HTML5, CSS3, JavaScript, Java. </b>
+								<b className="purple"> HTML5, CSS3, JavaScript, MERN Stack. </b>
 							</i>
 							<br />
 							<br />I love creating cutting-edge &nbsp;
